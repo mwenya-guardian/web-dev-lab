@@ -1,0 +1,3 @@
+The use of node and npm
+Learned how to add remote to an already existing local repo 
+And how to rename branches 
