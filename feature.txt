@@ -1,3 +1,4 @@
 The use of node and npm
 Learned how to add remote to an already existing local repo 
+Dealing with unrelated histories between local and remote repositories
 And how to rename branches 
